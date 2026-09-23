@@ -139,7 +139,7 @@ Web interface developed to consume and interact with the Library API, including 
 
 <br>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloOlt&layout=normal&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+<img width="70%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoPauloOlt&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 
 </div>
 
