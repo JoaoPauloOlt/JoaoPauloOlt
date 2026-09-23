@@ -12,9 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpoltramari)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/)
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=JoaoPauloOlt&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -81,70 +78,13 @@
 
 ---
 
-## Engineering Practices
-
-- **Clean Code**
-- **SOLID principles**
-- **Layered Architecture**
-- **RESTful API design**
-- **Authentication & Authorization**
-- **Role-Based Access Control (RBAC)**
-- **Automated Testing**
-- **Code Coverage**
-- **Static Code Analysis**
-- **Database Migrations**
-- **Continuous Integration**
-- **Pull Requests & Code Review**
-- **Git-based Development Workflow**
-- **API Documentation with OpenAPI**
-- **Containerization with Docker**
-
----
-
 ## Featured Project
 
 ### 📚 Library API
 
-**Java 17 · Spring Boot · Spring Security · PostgreSQL · Flyway · Docker**
-
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoPauloOlt/library-api)
 
-A portfolio-grade REST API for library management, designed around layered architecture, domain services and production-oriented engineering practices.
-
-**Core capabilities:**
-
-- Author and book management
-- ISBN validation and uniqueness
-- Dynamic filtering and pagination
-- Physical book-copy management
-- Unique copy barcodes and availability states
-- Loan creation and circulation workflow
-- Loan approval, activation, return and cancellation
-- Own-loan and all-loan views
-- Loan history and business-rule validation
-- Book cover and description metadata
-
-**Security:**
-
-- JWT authentication
-- BCrypt password protection
-- Permission-based RBAC
-- USER, LIBRARIAN and ADMIN access levels
-- Environment-based secrets and credentials
-
-**Engineering:**
-
-- Layered architecture
-- Spring Data JPA / Hibernate
-- PostgreSQL
-- Flyway versioned migrations
-- OpenAPI / Swagger documentation
-- Automated tests
-- JaCoCo coverage verification with an 80% line-coverage threshold
-- GitHub Actions CI
-- Docker / Docker Compose
-
-The project is continuously evolving with emphasis on **security, testability, maintainability and code quality**.
+Java 17 / Spring Boot REST API for library management, featuring JWT authentication, RBAC, PostgreSQL, Flyway, automated testing, JaCoCo coverage enforcement, Docker and GitHub Actions CI.
 
 ---
 
@@ -279,26 +219,6 @@ Current practices include:
 
 ---
 
-## Currently Focusing On
-
-\`\`\`text
-Java & Spring Boot
-        ↓
-Backend Architecture
-        ↓
-Application Security
-        ↓
-Automated Testing
-        ↓
-CI/CD & DevOps
-        ↓
-Software Engineering
-\`\`\`
-
-I'm currently focused on strengthening my backend engineering skills through increasingly complex projects, with particular attention to **architecture, security, testing, maintainability and production practices**.
-
----
-
 ## 🎓 Education
 
 **Systems Analysis and Development**  
@@ -316,35 +236,6 @@ I'm seeking an **internship opportunity in software development**, preferably fo
 My long-term goal is to build a solid career as a **Backend Developer**, specializing in Java, Spring Boot and software architecture.
 
 ---
-
-## Let's Connect
-
-Interested in opportunities and conversations involving:
-
-- Backend development
-- Java / Spring Boot
-- REST API development
-- Software engineering
-- Databases
-- Application security
-- Automated testing
-- CI/CD and DevOps
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/JoaoPauloOlt">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/jpoltramari">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-</div>
-
-<br>
 
 <div align="center">
 
