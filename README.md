@@ -2,162 +2,352 @@
 
 # João Paulo Oltramari da Silva
 
-### Backend Developer in Training · Java · Spring Boot · Node.js
+**Backend Developer · Java · Spring Boot · Software Engineering**
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento backend, APIs REST, segurança, persistência de dados e engenharia de software.
+*Building secure, maintainable and production-oriented backend systems.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-JoaoPauloOlt-181717?style=flat&logo=github)](https://github.com/JoaoPauloOlt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Paulo%20Oltramari-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jpoltramari)
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoPauloOlt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpoltramari)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=JoaoPauloOlt&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+<br>
+
+---
+
+## About Me
+
+<p>&nbsp;Hi! I'm <strong>João Paulo</strong>, a Backend Developer in training focused on <strong>Java and Spring Boot</strong>, based in Jundiaí, São Paulo, Brazil.</p>
+
+<p>&nbsp;I'm currently pursuing a degree in <strong>Systems Analysis and Development at Anhanguera</strong> and hold a <strong>Technical Degree in Systems Development from ETEC Jaraguá</strong>.</p>
+
+<p>&nbsp;My professional focus is backend development, especially <strong>REST APIs, application security, relational databases, automated testing, code quality and software architecture</strong>.</p>
+
+<p>&nbsp;My main personal project is <strong>Library API</strong>, a portfolio-grade library management backend developed with Java 17 and Spring Boot, with JWT authentication, permission-based RBAC, PostgreSQL, Flyway migrations, Docker, automated tests, JaCoCo coverage enforcement and CI validation.</p>
+
+---
+
+## Tech Stack
+
+### Backend & Languages
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
+
+### Data & Persistence
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+
+### Security
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-635BFF?style=flat-square&logoColor=white)
+![Authorization](https://img.shields.io/badge/Authorization-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+
+### Testing & Code Quality
+
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-C71A36?style=flat-square&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
+
+### DevOps & Workflow
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+### API & Documentation
+
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+---
+
+## Engineering Practices
+
+- **Clean Code**
+- **SOLID principles**
+- **Layered Architecture**
+- **RESTful API design**
+- **Authentication & Authorization**
+- **Role-Based Access Control (RBAC)**
+- **Automated Testing**
+- **Code Coverage**
+- **Static Code Analysis**
+- **Database Migrations**
+- **Continuous Integration**
+- **Pull Requests & Code Review**
+- **Git-based Development Workflow**
+- **API Documentation with OpenAPI**
+- **Containerization with Docker**
+
+---
+
+## Featured Project
+
+### 📚 Library API
+
+**Java 17 · Spring Boot · Spring Security · PostgreSQL · Flyway · Docker**
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoPauloOlt/library-api)
+
+A portfolio-grade REST API for library management, designed around layered architecture, domain services and production-oriented engineering practices.
+
+**Core capabilities:**
+
+- Author and book management
+- ISBN validation and uniqueness
+- Dynamic filtering and pagination
+- Physical book-copy management
+- Unique copy barcodes and availability states
+- Loan creation and circulation workflow
+- Loan approval, activation, return and cancellation
+- Own-loan and all-loan views
+- Loan history and business-rule validation
+- Book cover and description metadata
+
+**Security:**
+
+- JWT authentication
+- BCrypt password protection
+- Permission-based RBAC
+- USER, LIBRARIAN and ADMIN access levels
+- Environment-based secrets and credentials
+
+**Engineering:**
+
+- Layered architecture
+- Spring Data JPA / Hibernate
+- PostgreSQL
+- Flyway versioned migrations
+- OpenAPI / Swagger documentation
+- Automated tests
+- JaCoCo coverage verification with an 80% line-coverage threshold
+- GitHub Actions CI
+- Docker / Docker Compose
+
+The project is continuously evolving with emphasis on **security, testability, maintainability and code quality**.
+
+---
+
+## Other Projects
+
+### 🛡️ Safe Street — Backend | TCC
+
+**Node.js · Express · MongoDB · SQL · Geolocation**
+
+Academic TCC project focused on geolocation and safer route planning, involving REST API development, authentication, 2FA, database integration and map services.
+
+**Experience developed through the project:**
+
+- REST API development with Node.js / Express
+- MongoDB Atlas integration
+- SQL and NoSQL data integration
+- JWT authentication
+- Two-factor authentication
+- Geocoding and map-service integration
+- Route processing
+- Vue.js frontend integration
+- Cloud deployment
+
+> The repository is currently private.
+
+---
+
+### 🌐 Library Web
+
+**Web Frontend · REST API Integration**
+
+Web interface developed to consume and interact with the Library API, including authentication and communication with the deployed backend.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoPauloOlt/library-web)
+
+---
+
+## Development Workflow
+
+\`\`\`text
+Issue
+  ↓
+Feature / Fix Branch
+  ↓
+Implementation
+  ↓
+Automated Tests
+  ↓
+CI Validation
+  ↓
+Pull Request
+  ↓
+Review
+  ↓
+Merge
+  ↓
+Deploy
+\`\`\`
+
+I use short-lived branches and Pull Requests to keep changes isolated, reviewable and traceable.
+
+The Library API workflow targets <code>develop</code> and uses CI validation before changes are integrated.
+
+---
+
+## Quality & CI/CD
+
+Quality is treated as part of development rather than a final step.
+
+\`\`\`text
+Code
+ ↓
+Build
+ ↓
+Tests
+ ↓
+JaCoCo
+ ↓
+Static Analysis
+ ↓
+Quality Validation
+ ↓
+Pull Request
+\`\`\`
+
+Current practices include:
+
+- Automated CI pipelines
+- Automated test execution
+- JaCoCo coverage analysis
+- 80% line-coverage threshold in the Maven verification phase
+- SonarCloud analysis
+- Pull Request validation
+- Build verification
+- Branch-based development
+- Continuous improvement of test coverage
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloOlt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="João Paulo GitHub Stats" />
+</td>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloOlt&theme=tokyonight&hide_border=true&background=0D1117" alt="João Paulo GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloOlt&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Activity
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Anhanguera** e formado como **Técnico em Desenvolvimento de Sistemas pela ETEC Jaraguá**.
+<div align="center">
 
-Meu objetivo profissional é atuar como **desenvolvedor backend**, construindo APIs e aplicações confiáveis, seguras e bem estruturadas. Tenho consolidado minha formação por meio de projetos práticos envolvendo autenticação, autorização, persistência de dados, integração com serviços externos e regras de negócio.
+<img src="https://raw.githubusercontent.com/JoaoPauloOlt/JoaoPauloOlt/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" />
 
-Atualmente, meus principais estudos estão concentrados em **Java, Spring Boot, Spring Security, PostgreSQL e APIs REST**, mantendo também experiência prática com **Node.js e Express**.
+<img src="https://raw.githubusercontent.com/JoaoPauloOlt/JoaoPauloOlt/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake Light" />
 
----
-
-## 🧠 Foco técnico
-
-```text
-Backend Development
-├── Java / Spring Boot
-├── Node.js / Express
-├── REST APIs
-├── Spring Security / JWT
-├── Autenticação e autorização / RBAC
-├── PostgreSQL / SQL
-├── MongoDB / NoSQL
-├── JPA / Hibernate
-├── Modelagem de dados
-├── Integração com APIs externas
-└── Git / GitHub
-```
-
-### Principais tecnologias
-
-| Área | Tecnologias |
-| --- | --- |
-| **Backend** | Java, Spring Boot, Node.js, Express.js |
-| **Segurança** | Spring Security, JWT, autenticação, RBAC, 2FA |
-| **Banco de dados** | PostgreSQL, MongoDB, SQL, NoSQL |
-| **Persistência** | Spring Data JPA, Hibernate |
-| **Frontend** | Vue.js, JavaScript, HTML, CSS |
-| **APIs & Integrações** | REST, OpenStreetMap, OpenCage, OSRM |
-| **DevOps / Ambiente** | Docker, Render |
-| **Versionamento** | Git, GitHub |
-| **Boas práticas** | SOLID, Clean Code, modelagem de dados |
+</div>
 
 ---
 
-## 🚀 Projetos em destaque
+## Currently Focusing On
 
-### 🛡️ Safe Street — Backend | TCC
+\`\`\`text
+Java & Spring Boot
+        ↓
+Backend Architecture
+        ↓
+Application Security
+        ↓
+Automated Testing
+        ↓
+CI/CD & DevOps
+        ↓
+Software Engineering
+\`\`\`
 
-Sistema voltado à **segurança urbana**, utilizando dados geográficos para auxiliar usuários na visualização de áreas de risco e no planejamento de deslocamentos.
-
-**Minha atuação principal:**
-- Desenvolvimento da API REST em **Node.js + Express**;
-- Modelagem e persistência de dados;
-- Integração com **MongoDB Atlas**;
-- Autenticação e autorização;
-- Autenticação de dois fatores (**2FA**) por e-mail;
-- Recuperação de senha;
-- Geocodificação com **OpenCage**;
-- Integração com **OpenStreetMap/OSRM**;
-- Funcionalidades de rotas para pedestres;
-- Integração entre backend e frontend em Vue.js;
-- Deploy em ambiente cloud.
-
-**Stack:** `Node.js` `Express.js` `MongoDB` `REST API` `JWT` `2FA` `OpenCage` `OSRM` `Vue.js`
-
-🔗 **[Repositório do projeto](https://github.com/JoaoPauloOlt/safe-street-api)**
+I'm currently focused on strengthening my backend engineering skills through increasingly complex projects, with particular attention to **architecture, security, testing, maintainability and production practices**.
 
 ---
 
-### 📚 Sistema de Gestão de Biblioteca
+## 🎓 Education
 
-Projeto pessoal desenvolvido para aprofundar conhecimentos em **Java e Spring Boot**, com uma arquitetura backend próxima dos padrões utilizados em aplicações corporativas.
+**Systems Analysis and Development**  
+Universidade Anhanguera · 2026 — Present
 
-**Principais recursos:**
-- API REST;
-- Autenticação baseada em **JWT**;
-- Autorização baseada em **RBAC (Role-Based Access Control)**;
-- Gerenciamento de usuários;
-- Cadastro e gerenciamento de livros;
-- Autores e exemplares físicos;
-- Controle de empréstimos;
-- Aprovação, retirada, devolução e cancelamento de empréstimos;
-- PostgreSQL;
-- Spring Data JPA / Hibernate;
-- Docker;
-- Regras de negócio organizadas em services.
-
-**Stack:** `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `JPA` `Hibernate` `Docker`
-
-🔗 **[Repositório do projeto](https://github.com/JoaoPauloOlt/library)**
-
----
-
-## 📈 Atualmente estudando
-
-- **Java e Spring Boot** para desenvolvimento backend;
-- Arquitetura e organização de APIs REST;
-- Spring Security e segurança de aplicações;
-- Persistência com JPA/Hibernate;
-- PostgreSQL e modelagem relacional;
-- Docker e ambientes de desenvolvimento;
-- Testes automatizados;
-- Boas práticas de engenharia de software;
-- Estruturação de projetos visando manutenção e escalabilidade.
-
----
-
-## 🎯 Objetivo profissional
-
-Busco uma oportunidade de **estágio em desenvolvimento de software**, preferencialmente com atuação em backend, onde possa aplicar meus conhecimentos em projetos reais e continuar evoluindo tecnicamente.
-
-Meu foco de longo prazo é construir uma carreira sólida como **Backend Developer**, aprofundando conhecimentos em Java/Spring e arquitetura de sistemas.
-
----
-
-## 🎓 Formação
-
-**Análise e Desenvolvimento de Sistemas**  
-Universidade Anhanguera · 2026 — Atual
-
-**Técnico em Desenvolvimento de Sistemas**  
+**Technical Degree in Systems Development**  
 ETEC Jaraguá · 2022 — 2025
 
 ---
 
-## 📊 GitHub
+## 🎯 Professional Goal
+
+I'm seeking an **internship opportunity in software development**, preferably focused on backend development, where I can contribute to real-world systems while continuing to develop my engineering skills.
+
+My long-term goal is to build a solid career as a **Backend Developer**, specializing in Java, Spring Boot and software architecture.
+
+---
+
+## Let's Connect
+
+Interested in opportunities and conversations involving:
+
+- Backend development
+- Java / Spring Boot
+- REST API development
+- Software engineering
+- Databases
+- Application security
+- Automated testing
+- CI/CD and DevOps
+
+<br>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloOlt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/JoaoPauloOlt">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloOlt&layout=compact&hide_border=true)
+<a href="https://www.linkedin.com/in/jpoltramari">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 
----
-
-## 📫 Contato
-
-- **LinkedIn:** [linkedin.com/in/jpoltramari](https://www.linkedin.com/in/jpoltramari)
-- **GitHub:** [github.com/JoaoPauloOlt](https://github.com/JoaoPauloOlt)
-
----
+<br>
 
 <div align="center">
 
-**Backend development · Continuous learning · Software engineering**
+<sub>João Paulo Oltramari da Silva · Jundiaí, São Paulo, Brazil</sub>
 
 </div>
