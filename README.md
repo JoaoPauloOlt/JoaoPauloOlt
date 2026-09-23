@@ -90,7 +90,7 @@ Java 17 / Spring Boot REST API for library management, featuring JWT authenticat
 
 ## Other Projects
 
-### 🛡️ Safe Street — Backend | TCC
+### 🛡️ [Safe Street](https://safe-street-web.onrender.com/tutorial) — Backend | TCC
 
 **Node.js · Express · MongoDB · SQL · Geolocation**
 
@@ -108,7 +108,7 @@ Academic TCC project focused on geolocation and safer route planning, involving 
 - Vue.js frontend integration
 - Cloud deployment
 
-> The repository is currently private.
+> The backend repository is currently private. The project is available through the deployed website above.
 
 ---
 
