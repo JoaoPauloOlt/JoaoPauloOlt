@@ -129,7 +129,7 @@ Web interface developed to consume and interact with the Library API, including 
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloOlt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="João Paulo GitHub Stats" />
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoPauloOlt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="João Paulo GitHub Stats" />
 </td>
 <td align="center" width="50%">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPauloOlt&theme=tokyonight&hide_border=true&background=0D1117" alt="João Paulo GitHub Streak" />
